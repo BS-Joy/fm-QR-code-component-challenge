@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here!](https://github.com/BS-Joy/fm-QR-code-component-challenge)
+- Live Site URL: [Click Here!](https://bs-joy.github.io/fm-QR-code-component-challenge/)
 
 
 ### Built with
@@ -19,14 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Not available right now!](#)
+- Frontend Mentor - [@BS-Joy](https://www.frontendmentor.io/profile/BS-Joy)
+- Twitter - [@badhan_samadder](https://twitter.com/badhan_samadder)
